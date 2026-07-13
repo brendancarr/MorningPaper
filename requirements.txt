@@ -1,0 +1,7 @@
+customtkinter
+feedparser
+trafilatura
+beautifulsoup4
+ebooklib
+requests
+lxml
