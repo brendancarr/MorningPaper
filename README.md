@@ -26,3 +26,8 @@ Either run it from the command line, or download the latest release. Sorry, I on
 py morningpaper.py
 ```
 
+## Screenshots
+
+![First Run](https://github.com/brendancarr/MorningPaper/blob/main/screenshots/firstrun.png)
+![Completed](https://github.com/brendancarr/MorningPaper/blob/main/screenshots/complete.png)
+![epub view](https://github.com/brendancarr/MorningPaper/blob/main/screenshots/epub_view.png)
